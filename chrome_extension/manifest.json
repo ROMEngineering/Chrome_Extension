@@ -3,9 +3,8 @@
   "name": "React Chrome Extension",
   "description": "This is a Chrome extension built with React for hunting coins",
   "version": "1.0.0",
-  "permissions": ["activeTab", "storage", "http://*/*", "https://*/*"],
   "action": {
-    "default_popup": "dist/js/index.html",
+    "default_popup": "dist/index.html",
     "default_title": "React Chrome Extension"
   }
 }
